@@ -1,0 +1,6 @@
+{
+  "name": "Gharpayy Rental Deal Flow OS",
+  "description": "Live rental CRM and deal flow execution operating system for residential home discovery, M-POWER calls, movement CARE, booking flow split, and closing desk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
